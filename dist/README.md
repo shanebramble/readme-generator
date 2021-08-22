@@ -1,29 +1,47 @@
 
-# test 1
+# Recipe Renegade
+
+![GitHub license](https://img.shields.io/badge/license-cc-blue.svg)
 
 ## Description
-test 1
+
+Random Discription
+
 ## Table of Contents
 
-* [Installation](#installation) 
-* [Usage](#usage) 
-* [Credits](#credits) 
+* [Installation](#installation)
+* [Usage](#usage)
+
 * [License](#license)
 
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
 ## Installation
-test 1
+
+install Node.js
+
 ## Usage
-test 1
-## License 
-test 1
+
+Random Examples
+
+## License
+
+This project is licensed under the cc license.
+
 ## Contributing
-test 1
+
+Shane Bramble-Wade
+
 ## Tests
-test 1
+
+Test1 - Tested the functionality 
+
 ## Questions
+
 If you have any remaining questions, feel free to contact me below:
 
-* [GitHub Profile](https://github.com/test 1)
+* [GitHub Profile](https://github.com/shanebramble)
 
-* [Email Address: ](test 1)
-
+* Email Address: sbramwade@msn.com
