@@ -2,7 +2,7 @@
 
 # Description
 
-In this module, I used node.js to build a program that creates a GitHub REAMDME page using the command line to capture user input and place it in a JavaScript function that outputs a finished HTML page.
+In this module, I used node.js to build a program that creates a GitHub README page using the command line to capture user input and place it in a JavaScript function that outputs a finished HTML page.
 
 ![README Generator](utils/images/readmeProfilePic.png)
 
